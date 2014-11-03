@@ -1,7 +1,7 @@
 /*jslint indent: 2 */
 /*global $: false, document: false, togglbutton: false*/
 
-togglbutton.render('.issueContainer .fsi-toolbar-content:not(.toggl)', {observe: true}, function (elem) {
+togglbutton.render('.issueContainer .issue-summary:not(.toggl)', {observe: true}, function (elem) {
   'use strict';
 
   var link, description,
