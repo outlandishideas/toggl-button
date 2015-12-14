@@ -40,6 +40,7 @@
     "*://*.redmine.org/*",
     "*://*.myjetbrains.com/*",
     "*://tracker.outlandishideas.co.uk/*",
+    "*://tracker.outlandish.com/*",
     "*://*.capsulecrm.com/*",
     "*://*.zendesk.com/*",
     "*://go.xero.com/*",
@@ -79,6 +80,7 @@
         "*://*.redmine.org/*",
         "*://*.myjetbrains.com/*",
 	    "*://tracker.outlandishideas.co.uk/*",
+	    "*://tracker.outlandish.com/*",
         "*://*.capsulecrm.com/*",
         "*://*.zendesk.com/*",
         "*://go.xero.com/*",
@@ -176,7 +178,8 @@
     {
       "matches": [
         "*://*.myjetbrains.com/*",
-        "*://tracker.outlandishideas.co.uk/*"
+        "*://tracker.outlandishideas.co.uk/*",
+        "*://tracker.outlandish.com/*"
       ],
       "js": ["scripts/content/youtrack.js"]
     },
