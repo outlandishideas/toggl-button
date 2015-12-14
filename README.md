@@ -1,6 +1,6 @@
 # Toggl Button Chrome extension
 
-Add Toggl one-click time tracking to [tracker](http://tracker.outlandish.com) (forked from [toggl's original](https://github.com/toggl/toggl-button))
+Add Toggl one-click time tracking to [YouTrack tracker](http://tracker.outlandish.com) (forked from [toggl's original](https://github.com/toggl/toggl-button))
 
 ## Installing from the Web Store
 
