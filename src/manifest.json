@@ -3,7 +3,7 @@
   "short_name": "Toggl Button",
   "version": "0.4.2",
   "manifest_version": 2,
-  "description": "Add Official Toggl Online Timer to Popular Web Tools",
+  "description": "Add outlandish.com Toggl Online Timer to YouTrack",
   "background": {
     "scripts": [
       "scripts/background.js"
